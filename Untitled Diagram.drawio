@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T14:17:57.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Aw_IUPYjNlwO0H0LU4Ge" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T14:19:40.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="16TB_xerZEuW43VS_Kxd" version="24.4.6" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1229" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-GH2pdDdH-t2QKyGOY7W-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="-GH2pdDdH-t2QKyGOY7W-16" target="-GH2pdDdH-t2QKyGOY7W-18">
+        <mxCell id="-GH2pdDdH-t2QKyGOY7W-24" value="RJ45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="-GH2pdDdH-t2QKyGOY7W-16" target="-GH2pdDdH-t2QKyGOY7W-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="770" as="targetPoint" />
             <Array as="points">
@@ -79,7 +79,7 @@
         <mxCell id="-GH2pdDdH-t2QKyGOY7W-22" value="T450 VAL" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenclient;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="91" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="-GH2pdDdH-t2QKyGOY7W-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.549;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-GH2pdDdH-t2QKyGOY7W-16" target="-GH2pdDdH-t2QKyGOY7W-19">
+        <mxCell id="-GH2pdDdH-t2QKyGOY7W-26" value="RJ45&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.549;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-GH2pdDdH-t2QKyGOY7W-16" target="-GH2pdDdH-t2QKyGOY7W-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="687" y="690" as="sourcePoint" />
             <mxPoint x="331" y="800" as="targetPoint" />
@@ -87,6 +87,16 @@
               <mxPoint x="677" y="690" />
               <mxPoint x="710" y="690" />
               <mxPoint x="710" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-GH2pdDdH-t2QKyGOY7W-27" value="RJ45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="-GH2pdDdH-t2QKyGOY7W-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="260" />
+              <mxPoint x="216" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
